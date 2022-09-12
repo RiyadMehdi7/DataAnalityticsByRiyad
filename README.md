@@ -1,2 +1,0 @@
-# DataAnalityticsByRiyad
-Public Projects
